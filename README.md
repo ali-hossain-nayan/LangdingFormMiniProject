@@ -6,8 +6,8 @@ It is built using pure HTML5 and CSS, focusing on clean layout, modern styling, 
 
 Purpose of the Assignment:
 
-Practice creating real-world layouts
-Use Flexbox for alignment
-Learn how to style forms
-Improve responsive design skills
-Keep code clean and easy to read
+Practice creating real-world layouts.
+Use Flexbox for alignment.
+Learn how to style forms.
+Improve responsive design skills.
+Keep code clean and easy to read.
