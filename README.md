@@ -11,3 +11,5 @@ Use Flexbox for alignment.
 Learn how to style forms.
 Improve responsive design skills.
 Keep code clean and easy to read.
+
+Here is the Live link of the Project: https://ladnignfromminiproject.netlify.app/
